@@ -13,6 +13,6 @@ More information
 
 **Please check these forks and other repositories that could further meet your expectations**
 
-- See sosedoff/munin-plugins for installation informations and to see another php-fpm plugin.
+- See [sosedoff/munin-plugins](//github.com/sosedoff/munin-plugins) for installation informations and to see another php-fpm plugin.
 - See MorbZ/munin-php-fpm, a fork called "Munin PHP FPM Plugin combined by Pool"
 - See realhidden/munin-php-fpm, a MorbZ fork.
