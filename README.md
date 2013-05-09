@@ -11,5 +11,8 @@ This plugin requires PHP CLI.
 More information
 ----------------
 
+** Please check these forks and other repositories that could further meet your expectations **
+
 - See https://github.com/sosedoff/munin-plugins/tree/master/php-fpm for installation informations and to see another php-fpm plugin.
 - See https://github.com/MorbZ/munin-php-fpm, a fork called "Munin PHP FPM Plugin combined by Pool"
+- See https://github.com/realhidden/munin-php-fpm, a MorbZ fork.
